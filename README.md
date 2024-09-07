@@ -12,11 +12,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
 ### Обо мне  
 - 🔭 На данный момент я планирую сосредоточиться на еще большем углубленном изучении Python и его фреймворков. В моих планах также продолжение самостоятельного обучения на платформе Stepik, участие в open-source проектах и запуск собственного pet-проекта.  
   
@@ -36,7 +31,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Технологии и стек  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
