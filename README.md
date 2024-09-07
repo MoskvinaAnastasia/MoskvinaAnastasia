@@ -7,7 +7,6 @@
   
 
 После девяти лет работы инженером-конструктором я решила перейти в сферу IT, чтобы испытать свои способности в новой области и взять на себя ответственность за создание логики и функциональности программных решений. Мой опыт работы конструктором научил меня внимательности к деталям, способности видеть задачи в контексте общей картины и глубокой проработке решений — навыки, которые я намерена применить в backend-разработке.  
-  
 
 <br/>  
 
@@ -19,14 +18,9 @@
 - 🌱 Планирую изучать область data science  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+### Связь со мной  
+- 📧 Почта: [A.E.Moskvina@yandex.ru](mailto:A.E.Moskvina@yandex.ru)  
+- 📱 Telegram: [nastuxaglyxar](https://t.me/nastuxaglyxar)  
 
 <br/>  
 
@@ -46,8 +40,6 @@
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="25" /></a>  
 <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GitHub%20Actions-CE1141?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" height="25" /></a>  
 <a href="https://www.programmableweb.com/api" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/API-663399?style=for-the-badge&logo=api&logoColor=white" alt="API" height="25" /></a>  
-</div>
-
-<br/>  
+</div>  
 
 
