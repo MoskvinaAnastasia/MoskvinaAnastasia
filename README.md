@@ -43,6 +43,9 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="25" /></a>  
 <a href="https://gunicorn.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" height="25" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="25" /></a>  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="25" /></a>  
+<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" height="25" /></a>  
 </div>
 
 <br/>  
