@@ -42,6 +42,10 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
+<a href="https://gunicorn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gunicorn.svg" alt="Gunicorn" height="25" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visual-studio-code-original.svg" alt="Visual Studio Code" height="25" /></a>  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="25" /></a>  
+<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-actions.svg" alt="GitHub Actions" height="25" /></a>  
 </div>  
 
 <br/>  
